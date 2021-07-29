@@ -1,0 +1,41 @@
+{
+    "navData": {
+      "logo": {
+        "imgSrc": "https://niravkpatel28.github.io/github-image-repository/webpage/surfboard-logo.png",
+        "alt": "Surfboard India Company Logo"
+      },
+      "navLinks": [
+        { "linkId": "li1", "title": "Home", "href": "#" },
+        { "linkId": "li2", "title": "Our Work", "href": "#" },
+        { "linkId": "li3", "title": "About Us", "href": "#" },
+        { "linkId": "li4", "title": "Register", "href": "#", "isCta": true }
+      ]
+    },
+    "bannerData": {
+      "companyName": "Render Webpage using JavaScript Object",
+      "tagline": "using modular code for page rendering",
+      "cta": "Contact Us",
+      "href": "#",
+      "bannerImage": "https://niravkpatel28.github.io/github-image-repository/webpage/banner2.png"
+    },
+    "footerData":{
+        "logo": {
+            "imgSrc": "https://niravkpatel28.github.io/github-image-repository/webpage/surfboard-logo.png",
+            "alt": "Surfboard India Company Logo"
+          },
+          "navLinks": [
+            { "iconId": "icon1", "className": "fa-twitter", "href": "#" },               
+            { "iconId": "icon2", "className": "fa-linkedin-in", "href": "#" },
+            { "iconId": "icon3", "className": "fa-github-alt", "href": "#" }
+          ],
+          "copyrightText": "© Dheeraj james"
+    },
+    "ourteamData":{
+          "ourteamHeading": "Our team",
+          "teamInfo": [
+            {"teamId": "member1", "memberImage":"#", "memberName": "Dheeraj James"},
+            {"teamId": "member2", "memberImage":"#", "memberName": "Tushar James"},
+            {"teamId": "member3", "memberImage":"#", "memberName": "Yummy"}
+          ]
+    }
+  }
